@@ -1,2 +1,2 @@
-# Grigory-Titov-Creator
+# Grigory-Titov Создаю сайты Premium уровня с нуля.
 Это сайт для моего портфолио.
